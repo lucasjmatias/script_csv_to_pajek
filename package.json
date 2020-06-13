@@ -1,0 +1,12 @@
+{
+  "name": "script_csv_to_pajek",
+  "version": "1.0.0",
+  "description": "Javascript script for trasnforming csv to pajek network",
+  "main": "index.js",
+  "repository": "https://github.com/lucasjmatias/script_csv_to_pajek.git",
+  "author": "Lucas Matias <lucas.matias.87@gmail.com>",
+  "scripts": {
+	  "start": "node start.js"
+  },
+  "license": "MIT"
+}

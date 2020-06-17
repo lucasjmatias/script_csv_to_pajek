@@ -6,7 +6,9 @@
   "repository": "https://github.com/lucasjmatias/script_csv_to_pajek.git",
   "author": "Lucas Matias <lucas.matias.87@gmail.com>",
   "scripts": {
-    "start": "node start.js"
+    "start": "node start.js",
+    "journals": "node journals_network.js",
+    "articles": "node articles_network.js"
   },
   "license": "MIT",
   "dependencies": {
